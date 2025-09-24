@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kicad
+title: Introduction to KiCAD
 date:   2018-07-05 15:01:35 +0300
 image:  jesned/Jesned_KiCAD.jpg
 tags:   Home kicad
