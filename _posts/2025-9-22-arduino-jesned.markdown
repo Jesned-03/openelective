@@ -8,6 +8,3 @@ author: Jesned George Mathew
 ---
 
 
-![]({{ site.baseurl }}/images/jesned/jesned_arduin0.jpg")
-*Minimalism*
-
